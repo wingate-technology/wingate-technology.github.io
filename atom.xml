@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>微特智能科技（南通）有限公司</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wingate-technology.github.io/"/>
+  <updated>2016-10-13T07:58:41.000Z</updated>
+  <id>https://wingate-technology.github.io/</id>
+  
+  <author>
+    <name>wingate-technology</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>日常值班管理制度</title>
+    <link href="https://wingate-technology.github.io/2016/10/13/%E6%97%A5%E5%B8%B8%E5%80%BC%E7%8F%AD%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6/"/>
+    <id>https://wingate-technology.github.io/2016/10/13/日常值班管理制度/</id>
+    <published>2016-10-13T07:58:10.000Z</published>
+    <updated>2016-10-13T07:58:41.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;./日常值班管理制度.pdf&quot;&gt;日常值班管理制度&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;./日常值班管理制度.pdf&quot;&gt;日常值班管理制度&lt;/a&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>出差管理制度-南通微特</title>
+    <link href="https://wingate-technology.github.io/2016/10/13/%E5%87%BA%E5%B7%AE%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6-%E5%8D%97%E9%80%9A%E5%BE%AE%E7%89%B9/"/>
+    <id>https://wingate-technology.github.io/2016/10/13/出差管理制度-南通微特/</id>
+    <published>2016-10-13T07:49:36.000Z</published>
+    <updated>2016-10-13T07:57:54.000Z</updated>
+    
+    <content type="html">&lt;p&gt;&lt;a href=&quot;./出差管理制度-南通微特.pdf&quot;&gt;出差管理制度-南通微特&lt;/a&gt;&lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;&lt;a href=&quot;./出差管理制度-南通微特.pdf&quot;&gt;出差管理制度-南通微特&lt;/a&gt;&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
